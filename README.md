@@ -1,4 +1,4 @@
-# Hi there, I'm Andres! 👋
+# Hi there, I'm Andre
 
 ### 🚀 Full-Stack Developer & DevOps Enthusiast
 I specialize in building scalable web applications and managing containerized infrastructures. Passionate about clean code, automation, and modern web technologies.
